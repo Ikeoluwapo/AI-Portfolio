@@ -11,7 +11,7 @@ Aim: Using sentiment analysis tool to create a movie review Interface.
 
 Model used: NLTK Library, SentimentIntensityAnalyzer, vader_lexicon
 
-![Movie Review](https://github.com/Ikeoluwapo/Movie-Review/blob/3567713563e4a539194d95874f9754f450c8b8dd/Sentiment%20Analysis.png?raw=True)?raw=True)
+![Movie Review](https://github.com/Ikeoluwapo/Movie-Review/blob/3567713563e4a539194d95874f9754f450c8b8dd/Sentiment%20Analysis.png?raw=True)
 
 # [Models-Machine Learning]
 ## [Model 1: Device Price Prediction](https://device-price.streamlit.app/)
