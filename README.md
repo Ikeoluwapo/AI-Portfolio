@@ -5,6 +5,14 @@ Technical Skills: NLP, Computer Vision, CNN, YOLO, NLTK, CV2, Python, SQL, Power
 BSc Microbiology
 
 ## Projects
+# [AI Models]
+## [Model 1: Sentiment Analysis - Moview Review](https://device-price.streamlit.app/)
+Aim: Using sentiment analysis tool to create a movie review Interface.
+
+Model used: NLTK Library, SentimentIntensityAnalyzer, vader_lexicon
+
+![Device Prediction](https://github.com/Ikeoluwapo/Emmanuella_Portfolio/blob/527f21786ca22b9e1131f1e54fbec934ba744f96/Device%20Price.png?raw=True)
+
 # [Models-Machine Learning]
 ## [Model 1: Device Price Prediction](https://device-price.streamlit.app/)
 Aim: To do Exploratory Data Analytics and to create a model which can help in pricing of devices.
