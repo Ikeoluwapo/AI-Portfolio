@@ -6,7 +6,7 @@ BSc Microbiology
 
 ## Projects
 # [AI Models]
-## [Model 1: Sentiment Analysis - Moview Review](https://movie-sentiment-review.streamlit.app/)
+## [Model 1: Sentiment Analysis - Movie Review](https://movie-sentiment-review.streamlit.app/)
 Aim: Using sentiment analysis tool to create a movie review Interface.
 
 Model used: NLTK Library, SentimentIntensityAnalyzer, vader_lexicon
