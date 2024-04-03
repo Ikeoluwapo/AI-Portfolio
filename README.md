@@ -13,6 +13,16 @@ Model used: NLTK Library, SentimentIntensityAnalyzer, vader_lexicon
 
 ![Movie Review](https://github.com/Ikeoluwapo/Movie-Review/blob/3567713563e4a539194d95874f9754f450c8b8dd/Sentiment%20Analysis.png?raw=True)
 
+## [Model 2: CV Analyzer - Job Recommendation](https://job-recommendationre.streamlit.app/)
+Aim: Using AI model to recommend jobs from the information provided by individual resume.
+
+Library & Model: ResumeParser, PDFPage, PDFResourceManager, PDFPageInterpreter, TextConverter, NLTK
+
+Tool: Transfer Learning, spacy
+
+![Job Recommendation](https://github.com/Ikeoluwapo/Job-Recommendation/blob/b94a048ab19b0c247a2989dc00b0c4f81a940e2c/Screenshot%20(6).png?raw=True)
+
+
 # [Models-Machine Learning]
 ## [Model 1: Device Price Prediction](https://device-price.streamlit.app/)
 Aim: To do Exploratory Data Analytics and to create a model which can help in pricing of devices.
